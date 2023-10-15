@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@font-face {
+  font-family: 'Moutains of Christimas';
+  src: url('src/assets/fontes/MountainsofChristmas-Regular.ttf') format('ttf'),
+
+}
